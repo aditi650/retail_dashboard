@@ -1,7 +1,7 @@
 # U.S. Retail Sector Opportunity Analysis Dashboard
 
 ## Author
-** Raye Oji, Aditi Shukla**  
+ Raye Oji, Aditi Shukla  
 
 ---
 
